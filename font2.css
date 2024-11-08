@@ -4,16 +4,16 @@
   font-style: normal;
   font-display: swap;
   font-weight: 100;
-  src: url("../font/SCDream1.woff") format("woff"),
-  url("../font/SCDream1.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream1.woff") format("woff"),
+  url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream1.woff2") format("woff2");
 }
 @font-face {
   font-family: "SCDream";
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src: url("../font/SCDream2.woff") format("woff"), 
-  url("../font/SCDream2.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream2.woff") format("woff"), 
+  url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream2.woff2") format("woff2");
 }
 
 @font-face {
@@ -21,51 +21,51 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url("../font/SCDream3.woff") format("woff"), url("../font/SCDream3.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream3.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream3.woff2") format("woff2");
 }
 @font-face {
   font-family: "SCDream";
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url("../font/SCDream4.woff") format("woff"), url("../font/SCDream4.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream4.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream4.woff2") format("woff2");
 }
 @font-face {
   font-family: "SCDream";
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url("../font/SCDream5.woff") format("woff"),
-  url("../font/SCDream5.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream5.woff") format("woff"),
+  url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream5.woff2") format("woff2");
 }
 @font-face {
   font-family: "SCDream";
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url("../font/SCDream6.woff") format("woff"),
-  url("../font/SCDream6.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream6.woff") format("woff"),
+  url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream6.woff2") format("woff2");
 }
 @font-face {
   font-family: "SCDream";
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:url("../font/SCDream7.woff") format("woff"), url("../font/SCDream7.woff2") format("woff2");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream7.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream7.woff2") format("woff2");
 }
 @font-face {
   font-family: "SCDream";
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src:url("../font/SCDream8.woff") format("woff"), url("../font/SCDream8.woff2") format("woff2");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream8.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream8.woff2") format("woff2");
 }
 @font-face {
   font-family: "SCDream";
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src:url("../font/SCDream9.woff") format("woff"), url("../font/SCDream9.woff2") format("woff2");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream9.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/SCDream9.woff2") format("woff2");
 }
 
 /* 본명조  NotoSerifKR*/
@@ -74,56 +74,56 @@
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src:url("../font/NotoSerifKR-ExtraLight.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSerifKR-ExtraLight.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSerifKR";
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src:url("../font/NotoSerifKR-Light.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSerifKR-Light.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSerifKR";
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:url("../font/NotoSerifKR-Regular.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSerifKR-Regular.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSerifKR";
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src:url("../font/NotoSerifKR-Medium.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSerifKR-Medium.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSerifKR";
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src:url("../font/NotoSerifKR-SemiBold.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSerifKR-SemiBold.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSerifKR";
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:url("../font/NotoSerifKR-Bold.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSerifKR-Bold.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSerifKR";
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src:url("../font/NotoSerifKR-ExtraBold.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSerifKR-ExtraBold.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSerifKR";
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src:url("../font/NotoSerifKR-Black.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSerifKR-Black.woff") format("woff");
 }
 
 /* NotoSansKR*/
@@ -132,56 +132,56 @@
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src:url("../font/NotoSansKR-ExtraLight.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSansKR-ExtraLight.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSansKR";
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src:url("../font/NotoSansKR-Light.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSansKR-Light.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSansKR";
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:url("../font/NotoSansKR-Regular.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSansKR-Regular.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSansKR";
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src:url("../font/NotoSansKR-Medium.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSansKR-Medium.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSansKR";
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src:url("../font/NotoSansKR-SemiBold.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSansKR-SemiBold.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSansKR";
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:url("../font/NotoSansKR-Bold.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSansKR-Bold.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSansKR";
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src:url("../font/NotoSansKR-ExtraBold.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSansKR-ExtraBold.woff") format("woff");
 }
 @font-face {
   font-family: "NotoSansKR";
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src:url("../font/NotoSansKR-Black.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/NotoSansKR-Black.woff") format("woff");
 }
 
 /* Paperlogy*/
@@ -190,5 +190,5 @@
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src:url("../font/Paperlogy-8ExtraBold.woff") format("woff");
+  src:url("https://cdn.jsdelivr.net/gh/MinCheonGi/font/Paperlogy-8ExtraBold.woff") format("woff");
 }
